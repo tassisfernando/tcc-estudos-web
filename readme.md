@@ -10,7 +10,7 @@
 - Tentativa de ler um arquivo .obj e exibí-lo em tela
 
 ## Projeto 3: [vtk_jst-test](./vtk_jst-test)
-- Estudo inicial da lib [three.js](https://kitware.github.io/vtk-js/docs/vtk_react.html) 
+- Estudo inicial da lib [vtk.js](https://kitware.github.io/vtk-js/docs/vtk_react.html) 
 - Criação de um projeto simples com um mundo 3D com figuras geométricas
 - Possibilidade de mudar a forma do arquivo com um elemento em tela e a forma de exibição
 
@@ -19,3 +19,7 @@
 ](https://www.youtube.com/watch?v=DPl34H2ISsk&t=1383s&ab_channel=RabbitHoleSyndrome) 
 - Criação de um projeto simples com um mundo 3D com figuras geométricas
 - Opção de selecionar a DEMO com React Three Fiber com a Three.js
+
+## Projeto 5: [vtk-upload-file-test](./vtk-upload-file-test)
+- Após estudo inicial da lib, tentativa de fazer um projeto que importa um arquivo .obj e exibe
+- **ERRO ENCONTRADO E NÃO CORRIGIDO AINDA**
