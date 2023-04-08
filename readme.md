@@ -28,3 +28,8 @@
 - Projeto baseado no vídeo [Create A 3D Model Showcase With React, Three.js, and React Three Fiber
 ](https://youtu.be/QaRIHrRclVk)
 - **ERRO AO COMPILAR NÃO RESOLVIDO AINDA**
+
+## Projeto 7: [web-3dmodel-threejs](./web-3dmodel-threejs)
+- Projeto baseado no vídeo [Adding a 3D model to a website using THREE.JS
+](https://youtu.be/lGokKxJ8D2c)
+- Importa um objeto 3D com a lib three.js, sem utilizar nenhum framework frontend
