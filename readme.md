@@ -23,3 +23,8 @@
 ## Projeto 5: [vtk-upload-file-test](./vtk-upload-file-test)
 - Após estudo inicial da lib, tentativa de fazer um projeto que importa um arquivo .obj e exibe
 - **ERRO ENCONTRADO E NÃO CORRIGIDO AINDA**
+
+## Projeto 6: [client-show-file-bmw](./client-show-file-bmw/)
+- Projeto baseado no vídeo [Create A 3D Model Showcase With React, Three.js, and React Three Fiber
+](https://youtu.be/QaRIHrRclVk)
+- **ERRO AO COMPILAR NÃO RESOLVIDO AINDA**
