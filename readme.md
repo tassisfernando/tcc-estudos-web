@@ -33,3 +33,7 @@
 - Projeto baseado no vídeo [Adding a 3D model to a website using THREE.JS
 ](https://youtu.be/lGokKxJ8D2c)
 - Importa um objeto 3D com a lib three.js, sem utilizar nenhum framework frontend
+
+## Projeto 8: [Tutorial-3D-altera-cor-tenis](./Tutorial-3D-altera-cor-tenis)
+- Projeto baseado no vídeo [Working with GLTF models in React.js: Build a product customizer with react-three-fiber](https://youtu.be/2jwqotdQmdQ)
+- Importa um objeto 3D com GLTF de um tênis e após é possível alterar as cores de diferentes partes dele
